@@ -1,0 +1,51 @@
+#partners-header {
+    color: rgb(255, 255, 255);
+    padding: 5.5% 0;
+    background-image: linear-gradient(to bottom, rgba(0, 84, 166, 0.7) 0%, rgba(0, 84, 166, 0.7) 100%), url("../img/partners/partner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#partners-header h1 {
+    margin: auto auto;
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+}
+
+.partners-content {
+    margin-top: 5%;
+}
+
+.partners-content h2 {
+    margin-bottom: 1%;
+    font-size: 155%;
+}
+
+.partners-content .row {
+    margin-bottom: 3%;
+}
+
+.partner-logo {
+    padding: 0;
+    margin: 20px 0;
+}
+
+.partner-logo:nth-child(2), .partner-logo:nth-child(3) {
+    margin-left: 3.5%;
+}
+
+.partner-logo img {
+    display: block;
+    margin: auto;
+}
+
+#become-partner {
+    color: rgb(255, 255, 255);
+    padding: 4% 0;
+    background-color: rgb(55, 110, 170);
+    text-align: center;
+}
+
+#become-partner h1 {
+    color: rgb(255, 255, 255);
+}
