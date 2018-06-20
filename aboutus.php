@@ -40,60 +40,36 @@
                 <hr>
                 <div class="row justify-content-center">
                     <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/rahul.jpg" alt="Rahul_Photo" /><br>
-                        <h3>Rahul Rabha</h3>
-                        <a href="mailto:rabharahul@gmail.com" data-toggle="tooltip" data-placement="bottom" title="rabharahul@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/rahul-rabha-b7930a114/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+                        <img class="img-fluid rounded-circle" src="./img/aboutus/mithilesh.jpg" alt="Mithilesh_Photo" /><br>
+                        <h3>Mithilesh Kohale</h3>
+                        <a href="mailto:beingtmk@gmail.com" data-toggle="tooltip" data-placement="bottom" title="beingtmk@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/mithilesh-kohale-471915136/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
                     </div>
                     <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/diptanshu.jpg" alt="Diptanshu_Photo" /><br>
-                        <h3>Diptanshu Agarwal</h3>
-                        <a href="mailto:diptanshu.agarwal@gmail.com" data-toggle="tooltip" data-placement="bottom" title="diptanshu.agarwal@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/diptanshu-agarwal-103b51150/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+                        <img class="img-fluid rounded-circle" src="./img/aboutus/devesh.jpg" alt="Devesh_Photo" /><br>
+                        <h3>Devesh Soni</h3>
+                        <a href="mailto:deveshsoni350@gmail.com" data-toggle="tooltip" data-placement="bottom" title="deveshsoni350@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/sonidevesh/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
                     </div>
                     <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/shivam.jpg" alt="Shivam_Photo" /><br>
-                        <h3>Shivam Sunderam</h3>
-                        <a href="mailto:shivamone1997@gmail.com" data-toggle="tooltip" data-placement="bottom" title="shivamone1997@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/shivam-sunderam-48b11913a/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
-                    </div>
-                    <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/shaurya.jpg" alt="Shaurya_Photo" /><br>
-                        <h3>Shaurya Gupta</h3>
-                        <a href="mailto:guptashaurya96@gmail.com" data-toggle="tooltip" data-placement="bottom" title="guptashaurya96@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/shaurya-gupta-2b012a17/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
-                    </div>
-                    <div class="core-team-member col-6 col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/vaibhav.jpg" alt="Vaibhav_Photo" /><br>
-                        <h3>Vaibhav Sable</h3>
-                        <a href="mailto:vaibhavsable8@gmail.com" data-toggle="tooltip" data-placement="bottom" title="vaibhavsable8@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/sablevaibhav/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+                        <img class="img-fluid rounded-circle" src="./img/aboutus/vishwas.jpg" alt="Vishwas_Photo" /><br>
+                        <h3>Vishwas Mishra</h3>
+                        <a href="mailto:vishwas17597@gmail.com" data-toggle="tooltip" data-placement="bottom" title="vishwas17597@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/vishwas-mishra-280161128/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/yash.jpg" alt="Yash_Photo" /><br>
-                        <h3>Yash Khatri</h3>
-                        <a href="mailto:yashkhatri2829@gmail.com" data-toggle="tooltip" data-placement="bottom" title="yashkhatri2829@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/yash-khatri-954284146/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+                        <img class="img-fluid rounded-circle" src="./img/aboutus/manav.jpg" alt="Manav_Photo" /><br>
+                        <h3>Manav Agrawal</h3>
+                        <a href="mailto:manav190497@iitg.ac.in" data-toggle="tooltip" data-placement="bottom" title="manav190497@iitg.ac.in"><i class="fa fa-envelope fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/manav-agrawal/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
                     </div>
                     <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/daksh.jpg" alt="Daksh_Photo" /><br>
-                        <h3>Daksh Kumar</h3>
-                        <a href="mailto:dakshkumar429@gmail.com" data-toggle="tooltip" data-placement="bottom" title="dakshkumar429@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/daksh-kumar-240997/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
-                    </div>
-                    <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/abhishek.jpg" alt="Abhishek_Photo" /><br>
-                        <h3>Abhishek Agrawal</h3>
-                        <a href="mailto:abhi.agrawal1412@gmail.com" data-toggle="tooltip" data-placement="bottom" title="abhi.agrawal1412@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/abhi-agrawal98/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
-                    </div>
-                    <div class="core-team-member col col-md-2">
-                        <img class="img-fluid rounded-circle" src="./img/aboutus/karan.jpg" alt="Karan_Photo" /><br>
-                        <h3>Karan Deshmukh</h3>
-                        <a href="mailto:karandeshmukh4419@gmail.com" data-toggle="tooltip" data-placement="bottom" title="karandeshmukh4419@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="https://www.linkedin.com/in/karansingh-deshmukh/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+                        <img class="img-fluid rounded-circle" src="./img/aboutus/utkarsh.jpg" alt="Utkarsh_Photo" /><br>
+                        <h3>Utkarsh Aggarwal</h3>
+                        <a href="mailto:utk.agg@iitg.ac.in" data-toggle="tooltip" data-placement="bottom" title="utk.agg@iitg.ac.in"><i class="fa fa-envelope fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/utkarsh-aggarwal-a64ba052/" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
                     </div>
                 </div>
             </div>

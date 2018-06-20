@@ -22,11 +22,11 @@
                                 <div class="competition-type">SOCIAL BUSINESS CASE COMPETITION</div>
                             </div>
                         </div>
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-md-auto">
                                 <div class="acknowledgement">An Indian Chapter of Creative Shock</div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -38,9 +38,13 @@
                             <div class="col-8 col-sm-6 col-md-4">
                                 <h2>Adding Purpose to Business</h2>
                                 <hr>
-                                <p>
+                                <!-- <p>
                                     Strategy Storm is a social business case competition for students in Indian universities. It will be organized for the first time this year.
                                     Graduate and Undergraduate students from all over the country will gather to solve business, marketing and PR related problems for social businesses and enterprises.
+                                </p> -->
+                                <p>
+                                  Strategy Storm is a social business case competition organized by students at Consulting Club, IIT Guwahati. Graduate and undergraduate students from all over the country will gather to solve business, marketing and PR related problems for social enterprises and organizations.
+
                                 </p>
                             </div>
                         </div>
@@ -52,8 +56,8 @@
                                     <h2>Finals at IIT Guwahati</h2>
                                     <hr>
                                     <p>
-                                        Preliminary round happens during 04 November - 12 November 2017.
-                                        The final event is held from 19 January - 21 January 2018 at the Indian Institute of Technology Guwahati, India.
+                                        Preliminary round happens during 26 October - 04 November 2018.
+                                        The final event is held from 19 January - 21 January 2019 at the Indian Institute of Technology Guwahati, India.
                                     </p>
                                 </div>
                             </div>
@@ -78,15 +82,14 @@
                        <div class="col-md-6">
                            <div class="row">
                                <div class="col-2">
-                                    <img src="img/home/udgam_logo_new.jpg" class="img-fluid rounded-circle" alt="Udgam Logo">
+                                    <img src="img/home/cac.png" class="img-fluid rounded-circle" alt="Udgam Logo">
                                </div>
                                 <div class="col-10">
-                                    <h2><span>Udgam, IIT Guwahati</span></h2>
+                                    <h2><span>Consulting & Analytics, IIT Guwahati</span></h2>
                                 </div>
                             </div>
                             <p>
-                                Udgam is an annual entrepreneurship summit organized by E-cell, IIT Guwahati. It visions to nurture and promote the entrepreneurship culture in North-east region of India. Udgam now stands as a pinnacle e-summit in India. With motive to provide a complete platform for budding entrepreneurs and young start-up enthusiasts, Udgam has grown from a small event to a national level summit of its own.
-                            </p>
+Founded in late 2015, Consulting and Analytics Club aims at imparting knowledge and skills in emerging fields of Data Analytics and Management Consulting. Since its institution, the club has conducted various activities and led to the development of Analytics related culture in the campus. We serve as a platform for students to learn, understand and apply various concepts through guest lectures, tutorials and pan India competitions. We have collaborated with Indusrty experts like Probyoto to work on real life data science problems. Right from the inception, the club has been gaining regular inputs from the industry through external sources and alumni. It has been stepping up the level and the quality of its activities. We were recently awarded the best Technical club by Director of IIT Guwahati for the academic year 2017-18.                            </p>
                         </div>
                         <div class="col-md-6">
                             <div class="row">
@@ -120,7 +123,7 @@
                     </p>
                 </div>
             </div>
-            
+
 <?php
     include ("footer.html");
 ?>
