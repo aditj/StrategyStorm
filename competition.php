@@ -10,7 +10,7 @@
                     <h1>About the Competition</h1>
                     <hr>
                     <p>
-                        Strategy Storm is a social business case competition for students in Indian universities which will be organized for the first time in 2018. Graduate and undergraduate students from all over the country will gather to solve business, marketing and PR related problems for social enterprises and organizations. By organizing this competition, we seek to introduce students to real life global social business models and to communicate how all traditional business strategies can be applied to social enterprises and organizations, improve students’ strategic thinking by challenging them with marketing and management problems, and promote social business all around the world.
+                      Strategy Storm is a social business case competition organized by students of Consulting Club, IIT Guwahati. Graduate and undergraduate students from all over the country will gather to solve business, marketing and PR related problems for social enterprises and organizations. By organizing this competition, we seek to introduce students to real life global social business models and to communicate how all traditional business strategies can be applied to social enterprises and organizations, improve students’ strategic thinking by challenging them with marketing and management problems, and promote social business all around the world.
                     </p>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                     <h1>Our Inspiration</h1>
                     <hr>
                     <p>
-                        Strategy Storm will be organized for the very first time this year by Udgam, IIT Guwahati, with the aim to increase the social conscience among young talented students in Indian universities through case studies and the social business conference in finals at IIT Guwahati. The idea is inspired and replicated from a project called 'Creative Shock' by students at ISM University of Management and Economics, Lithuania.
+                      Strategy Storm was started only last year, when a small group of students were inspired by the developing trend and lack of quality case competition in India at undergraduate level and decided to start one at Indian Institute of Technology Guwahati. This is just the beginning for Strategy Storm and we plan to become one of the most prestigious undergraduate case competitions in the country. Our entire project is inspired by an amazing project called Creative Shock by students at ISM University of Management and Economics, Lithuania. One thing is for sure – Strategy Storm Case Competition faces exciting times ahead, so stay tuned.
                     </p>
                 </div>
                 <div class="col-12 col-md-6 prizes">
@@ -28,34 +28,34 @@
                     <hr>
                     <p>
                         The winners of the competition gets a grand prize of
-                        <span class="prize-money"><i class="fa fa-inr"></i> 25,000</span>
+                        <span class="prize-money"><i class="fa fa-inr"></i> 40,000</span>
                     </p>
                 </div>
             </div>
 
             <div id="preliminary">
                 <div id="preliminary-content" class="container">
-                    <h1>Rounds</h1>
+                    <h1>Format</h1>
                     <hr>
                     <div class="row">
                         <div class="col-12 col-md-6">
                             <h2>Preliminary Round</h2>
                             <p>
-In the preliminary round, participating teams solve a business case on real-life social enterprise. First round solution counts for 90% of the final score of preliminary round. Application package counts for remaining 10% of the score. The preliminary rounds takes place online and participants have two weekends to solve the case.
+                              In the preliminary round, participating teams solve a business case on real-life social enterprise. First round solution counts for 100% of the final score of preliminary round. The preliminary rounds takes place online and participants have around ten days to solve the case.
                             </p>
                         </div>
                         <div class="col-12 col-md-6">
                             <h2>Final Round</h2>
                             <p>
-                                For the final round, the 8 best performing teams from the prelims will be invited to IIT Guwahati. They will have one night to solve a case and present it in front of a jury the next morning. The team with best solution are declared as winners of Strategy Storm.
+                              For the final round, the 10 best performing teams in the preliminary round will be invited to IIT Guwahati for the finale. They will have one night to solve a case and present it in front of a jury the next morning. The team with best solution are declared as WINNERS of Strategy Storm.
                             </p>
                         </div>
                     </div>
-                    <h2>Application Package</h2>
+                    <!-- <h2>Application Package</h2>
                     <p>
                         The application package consists of participants’ CVs, a team photo and team description. The two, case and application package comprises of the total team score in the preliminary round. Best 8 performing teams will be invited to IIT Guwahati for the finals.
 
-                    </p>
+                    </p> -->
                 </div>
             </div>
 

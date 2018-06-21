@@ -57,7 +57,11 @@
                                     <hr>
                                     <p>
                                         Preliminary round happens during 26 October - 04 November 2018.
+                                        <br>
                                         The final event is held from 19 January - 21 January 2019 at the Indian Institute of Technology Guwahati, India.
+                                        <br>
+                                        <strong>Registrations Open at 24th of September, 2018</strong>
+
                                     </p>
                                 </div>
                             </div>
@@ -89,8 +93,7 @@
                                 </div>
                             </div>
                             <p>
-Founded in late 2015, Consulting and Analytics Club aims at imparting knowledge and skills in emerging fields of Data Analytics and Management Consulting. Since its institution, the club has conducted various activities and led to the development of Analytics related culture in the campus. We serve as a platform for students to learn, understand and apply various concepts through guest lectures, tutorials and pan India competitions. We have collaborated with Indusrty experts like Probyoto to work on real life data science problems. Right from the inception, the club has been gaining regular inputs from the industry through external sources and alumni. It has been stepping up the level and the quality of its activities. We were recently awarded the best Technical club by Director of IIT Guwahati for the academic year 2017-18.                            </p>
-                        </div>
+Founded in late 2015, Consulting and Analytics Club aims at imparting knowledge and skills in emerging fields of Data Analytics and Management Consulting. We serve as a platform for students to learn, understand and apply various concepts through guest lectures, tutorials and pan India competitions. We were recently awarded the best Technical club by Director of IIT Guwahati for the academic year 2017-18.                        </div>
                         <div class="col-md-6">
                             <div class="row">
                                <div class="col-2">

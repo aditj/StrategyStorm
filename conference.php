@@ -52,8 +52,7 @@
                 <h1>About</h1>
                 <hr>
                 <p>
-Social business conference of Strategy Storm’18 will be held on Day 2 during Udgam’18 and will be open for all, including the participants and campus junta. The main goal of the conference is to introduce young leaders to the models of social business and the challenges faced while dealing with social problems, through business perspective. The conference invites Indian and foreign social entrepreneurs and leaders who share their insights and experience about social business and various ways of contributing to the society. This conference is a great place not only to increase awareness about social entrepreneurship but also to meet and establish professional networks with leaders of social businesses around the world.
-
+                  The 2nd Social Business Conference of Strategy Storm 2019 will take place at IIT Guwahati on January 20th and will be open for the competition participants and IIT Guwahati’s current campus junta. The main goal of the conference is to introduce young leaders to the models of social business and the challenges faced while dealing with social problems, through business perspective. We gather renowned and inspirational speakers from social businesses, the business world, as well as entrepreneurs to deliver conference with high quality content. This conference is a great place not only to increase awareness about social entrepreneurship but also to meet and establish professional networks with leaders of social businesses around the world. The aim of the entire project is to create a breath-taking experience to all participants and to stimulate your creativity through new inspiring platforms for problem-solving.
                 </p>
             </div>
 
@@ -135,7 +134,7 @@ Social business conference of Strategy Storm’18 will be held on Day 2 during U
                 </div>
             </div>
 
-            <div id="faqs">
+            <!-- <div id="faqs">
                 <div class="container">
                     <h1>Frequently Asked Questions</h1>
                     <hr>
@@ -152,7 +151,7 @@ Social business conference of Strategy Storm’18 will be held on Day 2 during U
                     <p class="question">6. Do you cover accommodation and travel fees to the finals?</p>
                     <p>Ans: Accommodation fees will be taken care by us but you have to take care of your travel to IIT Guwahati.</p>
                 </div>
-            </div>
+            </div> -->
 
 <?php
     include ("footer.html");
