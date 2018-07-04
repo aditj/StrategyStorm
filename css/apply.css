@@ -1,1 +1,50 @@
-#apply-header{background-image:linear-gradient(to bottom, rgba(0, 18, 63, 0.7) 0%, rgba(0, 18, 63, 0.7) 100%), url("../img/apply/apply.jpg");background-size:cover;background-position:center;background-attachment:fixed;padding:4%;color:rgb(255, 255, 255)}#apply-header a{color:rgb(255, 255, 255);text-decoration:underline}.rules{padding:60px 0}.rules h3{margin-bottom:3%}.rules .col-12{padding:0}.rules .col-12:first-child{padding-right:3%}.rules .col-12:nth-child(2){padding-left:3%}.rules ul li{margin:10px;text-align:justify}#apply-link{background-color:rgba(0, 18, 63, 0.8);padding:5%}#apply-link h1{margin:0;font-size:2em;color:rgb(255, 255, 255)}#apply-link h1 a{color:rgb(255, 255, 255);text-decoration:underline}
+#apply-header {
+    background-image: linear-gradient(to bottom,  rgba(0,  18,  63,  0.7) 0%,  rgba(0,  18,  63,  0.7) 100%),  url("../img/apply/apply.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 4%;
+    color: rgb(255,  255,  255);
+}
+#apply-header a {
+    color: rgb(255,  255,  255);
+    text-decoration: underline;
+}
+.rules {
+    padding: 60px 0;
+}
+.rules h3 {
+    margin-bottom: 3%}
+.rules .col-12 {
+    padding: 0;
+}
+.rules .col-12:first-child {
+    padding-right: 3%}
+.rules .col-12:nth-child(2) {
+    padding-left: 3%}
+.rules ul li {
+    margin: 10px;
+    text-align: justify;
+}
+#apply-link {
+    background-color: rgba(0,  18,  63,  0.8);
+    padding: 5%}
+#apply-link h1 {
+    margin: 0;
+    font-size: 2em;
+    color: rgb(255,  255,  255);
+}
+#apply-link h1 a {
+    color: rgb(255,  255,  255);
+    text-decoration: underline;
+}
+
+#apply-footer {
+    background-image: linear-gradient(to bottom,  rgba(0,  18,  63,  0.7) 0%,  rgba(0,  18,  63,  0.7) 100%),  url("../img/apply/apply.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 4%;
+    color: rgb(255,  255,  255);
+    margin-bottom: 0;
+}

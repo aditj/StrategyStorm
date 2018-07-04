@@ -5,7 +5,7 @@
     include ("./navbar.php");
 ?>
 
-            <h1 id="apply-header">Registrations Opens on 24th of September, 2018</h1>
+            <h1 id="apply-header">Registrations Opens on 1st of October, 2018</h1>
             <div class="container row rules">
                 <div class="col-12 col-md-6">
                     <h3>Eligibility Criteria</h3>
@@ -54,10 +54,12 @@
                     </ul>
                 </div>
             </div>
+            <h1 id="apply-footer">Registrations Opens on 1st of October, 2018</h1>
 
-            <div id="apply-link">
+            <!-- <div id="apply-link">
                 <h1>Register Your <a href="https://docs.google.com/forms/d/1S56wnjMlCw2OvjREA7ck_Uj0pNs_3gtm0qPjQOrrysU/viewform" target="_blank">Team</a></h1>
-            </div>
+            </div> -->
+
 
 <?php
     include ("./footer.html");

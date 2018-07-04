@@ -47,7 +47,7 @@
                         <div class="col-12 col-md-6">
                             <h2>Final Round</h2>
                             <p>
-                              For the final round, the 10 best performing teams in the preliminary round will be invited to IIT Guwahati for the finale. They will have one night to solve a case and present it in front of a jury the next morning. The team with best solution are declared as WINNERS of Strategy Storm.
+                              For the final round, the 10 best performing teams in the preliminary round will be invited to IIT Guwahati for the finale. They will have one night to solve a case and present it in front of a jury the next morning. The team with best solution are declared as <span class="winner">WINNERS</span> of Strategy Storm.
                             </p>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                                         <div class="timeline-content rounded">
                                             <h5>Registration Opens</h5>
                                             <hr>
-                                            23/10/17
+                                            1/10/18
                                         </div>
                                         <div class="vertical-line"></div>
                                     </td>
@@ -82,7 +82,7 @@
                                         <div class="timeline-content rounded">
                                             <h5>Prelims</h5>
                                             <hr>
-                                            04/11/17 - 12/11/17
+                                            26/10/18 - 04/11/18
                                         </div>
                                         <div class="vertical-line"></div>
                                     </td>
@@ -91,7 +91,7 @@
                                         <div class="timeline-content rounded">
                                             <h5>Finals</h5>
                                             <hr>
-                                            19/01/18 - 21/01/18
+                                            19/01/19 - 21/01/19
                                         </div>
                                         <div class="vertical-line"></div>
                                     </td>
@@ -125,7 +125,7 @@
                                         <div class="timeline-content rounded">
                                             <h5>Registration Closes</h5>
                                             <hr>
-                                            03/11/17
+                                            25/10/18
                                         </div>
                                     </td>
                                     <td></td>
@@ -134,7 +134,7 @@
                                         <div class="timeline-content rounded">
                                             <h5>Results</h5>
                                             <hr>
-                                            26/11/17
+                                            18/11/18
                                         </div>
                                     </td>
                                     <td></td>
@@ -149,7 +149,7 @@
                 <h1>The Finals</h1>
                 <hr>
                 <div class="row">
-                    <div class="col-md-6 finals-content">
+                    <div class="col-md-6 order-md-2 finals-content">
                         <h1>Day 1</h1>
                         <hr>
                         <p>
@@ -162,7 +162,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 order-md-2 finals-content">
+                    <div class="col-md-6 finals-content">
                         <h1>Day 2</h1>
                         <hr>
                         <p>
@@ -172,11 +172,11 @@
                             to provide their solutions and present them the next day to the jury of social entrepreneurs and business experts.
                         </p>
                     </div>
-                    <div class="col-md-6 order-md-1 imgCol" id="imgCol2">
+                    <div class="col-md-6 imgCol" id="imgCol2">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 finals-content">
+                    <div class="col-md-6 order-md-2 finals-content">
                         <h1>Day 3</h1>
                         <hr>
                         <p>

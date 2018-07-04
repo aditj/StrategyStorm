@@ -60,7 +60,7 @@
                                         <br>
                                         The final event is held from 19 January - 21 January 2019 at the Indian Institute of Technology Guwahati, India.
                                         <br>
-                                        <strong>Registrations Open at 24th of September, 2018</strong>
+                                        <strong>Registrations Open at 1st of October, 2018</strong>
 
                                     </p>
                                 </div>
@@ -116,7 +116,7 @@ Founded in late 2015, Consulting and Analytics Club aims at imparting knowledge 
                 <?php include("./getintouch.html"); ?>
             </div>
 
-            <div id="become-partner">
+            <!-- <div id="become-partner">
                 <div class="container">
                     <h1>Become a Partner</h1>
                     <p>
@@ -125,7 +125,7 @@ Founded in late 2015, Consulting and Analytics Club aims at imparting knowledge 
                         please contact us at <a href="mailto:info@strategystorm.in">info&#64;strategystorm.in</a>
                     </p>
                 </div>
-            </div>
+            </div> -->
 
 <?php
     include ("footer.html");
