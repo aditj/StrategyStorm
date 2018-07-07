@@ -10,6 +10,9 @@
 .fa-angle-right {
   color: rgb(0,  18,  63);
 }
+p.no-wrap {
+  white-space: nowrap;
+}
 
 #organizers {
     padding: 4% 0;

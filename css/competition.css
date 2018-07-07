@@ -1,8 +1,8 @@
 .competition-header {
     background-image: url("../img/competition/competition_header.jpg");
     background-repeat: no-repeat;
-    background-size: 50%;
-    background-position: -150px -40px;
+    background-size: contain;
+    background-position: -160px -40px;
     background-attachment: fixed;
 }
 .tinted-content {
