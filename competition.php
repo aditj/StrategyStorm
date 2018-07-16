@@ -5,8 +5,11 @@
     include ("navbar.php");
 ?>
 
-            <div class="competition-header row">
-                <div class="col-12 col-md-7 ml-md-auto tinted-content">
+            <div class="row">
+              <div class="col-md-5 competition-header">
+
+              </div>
+                <div class="col-md-7 ml-md-auto tinted-content">
                     <h1>About the Competition</h1>
                     <hr>
                     <p>
@@ -28,7 +31,7 @@
                     <hr>
                     <p>
                         The winners of the competition gets a grand prize of
-                        <span class="prize-money"><i class="fa fa-inr"></i> 40,000</span>
+                        <span class="prize-money"><i class="fa fa-inr"></i> 50,000</span>
                     </p>
                 </div>
             </div>

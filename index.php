@@ -89,7 +89,7 @@
                                     <img src="img/home/cac.png" class="img-fluid rounded-circle" alt="Udgam Logo">
                                </div>
                                 <div class="col-10">
-                                    <h2><span>Consulting & Analytics, IIT Guwahati</span></h2>
+                                    <h2><span>Consulting & Analytics Club, IIT Guwahati</span></h2>
                                 </div>
                             </div>
                             <p>
