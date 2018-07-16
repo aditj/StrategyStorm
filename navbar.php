@@ -7,7 +7,7 @@
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            
+
             gtag('config', 'UA-108656517-1');
         </script>
         <meta charset="utf-8" />
@@ -55,7 +55,7 @@
     </head>
     <body>
 
-        <nav class="navbar fixed-top navbar-expand-md navbar-light">
+        <nav class="navbar fixed-top navbar-expand-md navbar-dark">
             <div class="container">
                 <a class="navbar-brand" href="/">
                     <img src="img/header/logo-text-small.png" alt="Strategy Storm" class="d-inline-block align-center img-fluid"/>&nbsp;
@@ -86,4 +86,3 @@
         </nav>
 
         <div class="container-fluid">
-

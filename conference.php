@@ -60,19 +60,19 @@
                 <h1 class="">Speakers</h1>
                 <hr>
                 <div class="row">
-                    <div class="col-6 col-md-3 img-wrap">
+                    <div class="col-md-3 img-wrap container">
                         <img class="img-fluid" src="img/conference/pic1.png" alt="First Speaker" />
                         <h2><span>Coming Soon</span></h2>
                     </div>
-                    <div class="col-6 col-md-3 img-wrap">
+                    <div class="col-md-3 img-wrap">
                         <img class="img-fluid" src="img/conference/pic2.png" alt="Second Speaker" />
                         <h2><span>Coming Soon</span></h2>
                     </div>
-                    <div class="col-6 col-md-3 img-wrap">
+                    <div class="col-md-3 img-wrap">
                         <img class="img-fluid" src="img/conference/pic3.png" alt="Third Speaker" />
                         <h2><span>Coming Soon</span></h2>
                     </div>
-                    <div class="col-6 col-md-3 img-wrap">
+                    <div class="col-md-3 img-wrap">
                         <img class="img-fluid" src="img/conference/pic4.png" alt="Fourth Speaker" />
                         <h2><span>Coming Soon</span></h2>
                     </div>
@@ -83,7 +83,7 @@
                 <h1>AGENDA</h1>
                 <hr>
                 <div class="row justify-content-between">
-                    <div class="col-12 col-sm-6">
+                    <div class="col-sm-6">
                         <table>
                             <tr>
                                 <td>9:30</td>
@@ -107,7 +107,7 @@
                             </tr>
                         </table>
                     </div>
-                    <div class="col-12 col-sm-6">
+                    <div class="col-sm-6 agenda">
                         <table>
                             <tr>
                                 <td>12:00</td>
