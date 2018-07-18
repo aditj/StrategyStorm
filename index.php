@@ -55,13 +55,13 @@
                                 <div>
                                     <h2>Finals at IIT Guwahati</h2>
                                     <hr>
-                                    <p class="no-wrap">
+                                    <p class="pad">
                                         Preliminary round happens during 26 October - 04 November 2018.
                                     </p>
-                                    <p>
+                                    <p class="pad">
                                         The final event is held from 19 January - 21 January 2019 at the Indian Institute of Technology Guwahati, India.
                                         <br>
-                                    </p>
+                                    </p class="pad">
                                     <strong>Registrations Open at 1st of October, 2018</strong>
                                 </div>
                             </div>

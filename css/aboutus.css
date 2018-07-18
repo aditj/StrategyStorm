@@ -6,15 +6,19 @@
     min-height: 300px;
     background-position:  center;
     background-repeat:  no-repeat;
-    padding-top: 45%;
-    padding-bottom: 5%;
-}
 
-@media (min-width: 600px){
-  #team{
     padding: 32% 35% 10% 35%;
 
+}
+
+@media (max-width: 600px){
+  #team{
+    padding-top: 45%;
+    padding-bottom: 5%;
+    padding-left: 0;
+    padding-right: 0;
   }
+
 }
 
 
@@ -117,10 +121,16 @@ blockquote p {
 .get-in-touch #p1{
     text-align: center;
 }
-@media screen and (max-width: 990px) {
+/* @media screen and (max-width: 990px) {
     .get-in-touch {
     display: none;
-}
-}.fa1 {
+} */
+
+.fa1 {
     color: rgb(55,  110,  170);
+}
+
+.card, .pad{
+  padding: 10px;
+  margin: 10px
 }

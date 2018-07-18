@@ -17,6 +17,9 @@
 .carousel-indicators a.active li {
     background-color: #ffffff;
 }
+.carousel img{
+  min-height: 250px 
+}
 
 .conference-tint {
     width: 100%;

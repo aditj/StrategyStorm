@@ -10,8 +10,9 @@
 .fa-angle-right {
   color: rgb(0,  18,  63);
 }
-p.no-wrap {
-  white-space: nowrap;
+.pad{
+  margin: 4px;
+
 }
 
 #organizers {
@@ -85,8 +86,8 @@ p.no-wrap {
     position: absolute;
     top: 15%;
     right: 14%;
-    margin: auto;
-    padding: 1%
+    margin: 30px;
+    padding: 20px;
 }
 .get-in-touch .fa{
     color: rgb(55,  110,  170)
@@ -100,8 +101,8 @@ p.no-wrap {
     text-align: center;
 }
 
-@media screen and (max-width:900px) {
+/* @media screen and (max-width:900px) {
     .get-in-touch {
     visibility: hidden;
 }
-}
+} */
