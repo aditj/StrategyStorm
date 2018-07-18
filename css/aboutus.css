@@ -3,10 +3,20 @@
     background-image:  url("/img/aboutus/team.jpg");
     background-size: cover;
     width: 100%;
+    min-height: 300px;
     background-position:  center;
     background-repeat:  no-repeat;
-    padding:  33% 5% 9% 35%;
+    padding-top: 45%;
+    padding-bottom: 5%;
 }
+
+@media (min-width: 600px){
+  #team{
+    padding: 32% 35% 10% 35%;
+
+  }
+}
+
 
 #team h1 {
     margin-bottom: 0;

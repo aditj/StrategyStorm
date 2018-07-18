@@ -1,5 +1,5 @@
 .carousel-control-next .fa, .carousel-control-prev .fa {
-    color: rgb(0,18,63);
+    color: rgb(255, 255, 255);
 }
 .carousel-inner {
     margin: auto 0;
@@ -31,6 +31,14 @@
     visibility: hidden;
     font-size: 3.4em;
 }
+
+@media (max-width: 600px){
+  .conference-tint .col-4 {
+      visibility: hidden;
+      font-size: 1em;
+      padding-left: 60%;
+  }
+}
 .conference-tint .col-4 span {
     font-size: 1em;
     color: rgb(255,  255,  255);
@@ -44,7 +52,7 @@
     text-align: center;
 }
 #speakers .col-md-3 {
-    padding: 0;
+    padding-left: 0;
     position: relative;
 }
 #speakers hr {

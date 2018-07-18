@@ -16,12 +16,15 @@
 .rules h3 {
     margin-bottom: 3%}
 .rules .col-12 {
-    padding: 0;
+    padding-left: 4%;
 }
 .rules .col-12:first-child {
     padding-right: 3%}
 .rules .col-12:nth-child(2) {
     padding-left: 3%}
+.rules ul{
+  padding-left: 0;
+}
 .rules ul li {
     margin: 10px;
     text-align: justify;
@@ -47,4 +50,15 @@
     padding: 4%;
     color: rgb(255,  255,  255);
     margin-bottom: 0;
+}
+
+@media (max-width: 600px){
+  #apply-footer {
+    font-size: 1em;
+  }
+}
+@media (max-width: 600px){
+  #apply-header {
+    font-size: 1em;
+  }
 }

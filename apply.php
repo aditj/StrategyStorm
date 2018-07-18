@@ -32,7 +32,7 @@
                     </ul>
                 </div>
 
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6 rules">
                     <h3>Rules</h3>
                     <hr>
                     <ul>

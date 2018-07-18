@@ -18,6 +18,8 @@
     margin: 0 auto;
 }
 body {
+    height: 100%;
+    width: 100%;
     font-family: raleway;
     background-color: #f4f9ff;
     color: rgb(55,  110,  170);
@@ -43,33 +45,46 @@ nav {
 .navbar-nav {
     height: 100%}
 .nav-item {
-    font-family: gotham-bold,  "Myriad Pro",  sans-serif;
+    /* font-family: gotham-bold, "Myriad Pro",  sans-serif; */
     font-size: 80%;
     font-weight: 900;
     padding: 0 8px;
 }
 .nav-link span {
-    font-weight: bold;
+    /* font-weight: bold; */
     color: rgb(255,  255,  255);
 }
 .active span {
     color: rgb(55,  110,  170);
 }
+
 .enlarge {
     background-color: transparent;
     border: none;
 }
+
+
 .enlarge .navbar-brand {
     visibility: hidden;
 }
 .enlarge .nav-item span {
     color: rgb(230,  230,  230);
 }
-.enlarge .nav-item .active {
-    border-bottom: 5px solid rgb(255,  255,  255);
+@media (min-width: 600px){
+  .enlarge .nav-item .active {
+      border-bottom: 5px solid rgb(255,  255,  255);
+  }
 }
-.enlarge .nav-item .active span {
-    color: rgb(255,  255,  255);
+
+@media (max-width: 600px){
+  .enlarge .nav-item span {
+      font-size: 1.5em;
+  }
+}
+@media (min-width: 600px){
+  .enlarge .nav-item .active span {
+      color: rgb(255,  255,  255);
+  }
 }
 h1, h2, h3 {
     text-transform: uppercase;
@@ -90,7 +105,7 @@ hr {
     margin-bottom: 40px;
     width: 40px;
     height: 1px;
-    background-color: rgb(55,  110,  17);
+    background-color: rgb(55,  110,  170);
 }
 .container-fluid {
     padding: 0;
@@ -162,6 +177,13 @@ hr {
     font-weight: bold;
     margin-bottom: 4px;
 }
+
+@media (max-width: 600px){
+  .footer, .footer h4{
+      text-align: center;
+  }
+}
+
 .footer .fa-copyright {
     margin: 0 5px 0 0;
 }
