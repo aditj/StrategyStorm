@@ -67,27 +67,6 @@
     <h1>Advisory Board</h1>
     <hr>
     <div class="row justify-content-center pad">
-        <!-- <div class="advisory-team-member col-md-3">
-            <img class="img-fluid rounded-circle" src="./img/aboutus/ex1.jpg" alt="Shashank_Photo" />
-            <div class="">
-              <h4>Shashank17Gautam</h4>
-              <a href="mailto:gshashank555@gmail.com" data-toggle="tooltip" data-placement="bottom" title="gshashank555@gmail.com"><i class="fa fa-envelope fa-lg fa1"></i></a>
-              <a href="https://www.linkedin.com/in/shashankg14/" target="_blank"><i class="fa fa-linkedin-square fa-lg fa1"></i></a>
-            </div>
-        </div>
-        <div class="advisory-team-member col-md-3">
-            <img class="img-fluid rounded-circle" src="./img/aboutus/nihar.jpg" alt="Nihar_Photo" />
-            <h4>Nihar17Lohiya</h4>
-            <a href="mailto:lohiyanihar@gmail.com" data-toggle="tooltip" data-placement="bottom" title="lohiyanihar@gmail.com"><i class="fa fa-envelope fa-lg fa1"></i></a>
-            <a href="https://www.linkedin.com/in/niharlohiya/" target="_blank"><i class="fa fa-linkedin-square fa-lg fa1"></i></a>
-        </div>
-        <div class="advisory-team-member col-md-3">
-            <img class="img-fluid rounded-circle" src="./img/aboutus/ex5.jpg" alt="Shaswat_Photo" />
-            <h4>Shaswat 17Shrivastava</h4>
-            <a href="mailto:srivastava.shashwat1@gmail.com" data-toggle="tooltip" data-placement="bottom" title="srivastava.shashwat1@gmail.com"><i class="fa fa-envelope fa-lg fa1"></i></a>
-            <a href="https://www.linkedin.com/in/shashwatsrivastava/" target="_blank"><i class="fa fa-linkedin-square fa-lg fa1"></i></a>
-        </div> -->
-
         <div class="card" style="width: 17rem;">
           <img class="card-img-top" src="./img/aboutus/ex1.jpg" alt="Shashank_Photo" />
           <div class="card-body">

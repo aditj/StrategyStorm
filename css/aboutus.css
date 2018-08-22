@@ -105,10 +105,10 @@ blockquote p {
 }
 .get-in-touch {
     background-color: rgb(255,  255,  255);
-    padding: 5%;
+    padding: 4%;
     margin: auto;
     box-shadow: 0 15px 29px 9px rgba(0,  0,  0,  0.34);
-    max-width: 400px;
+    max-width: 325px;
 }
 .get-in-touch .fa{
     color: rgb(55,  110,  170)
@@ -116,7 +116,7 @@ blockquote p {
 .get-in-touch h2 {
     margin-bottom: 3%}
 .get-in-touch p {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 .get-in-touch #p1{
     text-align: center;

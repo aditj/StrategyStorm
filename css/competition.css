@@ -34,7 +34,7 @@
     float: right;
 }
 #history p {
-    padding-top: 30px;
+    /* padding-top: 30px; */
 }
 .inspiration p {
     background-image: linear-gradient(to bottom,  rgba(244,  249,  255,  1) 0%,  rgba(244,  249,  255,  1) 100%),  url("../img/competition/creative_shock_logo.png");
@@ -43,9 +43,9 @@
     background-position: center bottom;
     text-align: center;
 }
-.prizes {
+.prizes p {
     text-align: center;
-    /* padding-top: 50px; */
+    /* padding-top: 2%; */
     /* margin-top: 35px; */
 }
 

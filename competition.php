@@ -31,7 +31,7 @@
                     <hr>
                     <p>
                         The winners of the competition gets a grand prize of
-                        <span class="prize-money"><i class="fa fa-inr"></i> 50,000</span>
+                        <span class="prize-money"><i class="fa fa-inr"></i> 40,000</span>
                     </p>
                 </div>
             </div>
